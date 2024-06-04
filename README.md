@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://x.com/gauravkmr065" target="blank"><img src="https://img.shields.io/twitter/follow/gaurav?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I’m currently working with TokenMetrics team.
 
 - 🌱 I’m currently learning **Web 3 technology**
 
