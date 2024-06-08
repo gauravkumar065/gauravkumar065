@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Full stack , MEARN, latest BAAS**
 
-- 📫 How to reach me **gauravkmr@gmail.com**
+- 📫 How to reach me **gauravkmr065@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
