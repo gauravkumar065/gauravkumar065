@@ -51,6 +51,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravkumar065&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gauravkumar065" /></p>
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravkumar065&show_icons=true&locale=en&theme=tokyonight" alt="gauravkumar065" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravkumar065&&theme=tokyonight" alt="gauravkumar065" /></p>
