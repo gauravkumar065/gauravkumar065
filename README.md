@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg">
+<img align="right" alt="Coding" width="400" src="https://images.pexels.com/photos/4006123/pexels-photo-4006123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
