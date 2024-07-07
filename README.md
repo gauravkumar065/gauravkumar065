@@ -49,7 +49,7 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravkumar065&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gauravkumar065" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravkumar065&show_icons=true&locale=en&layout=compact&count_private=true&include_all_commits=true&theme=tokyonight" alt="gauravkumar065" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravkumar065&show_icons=true&locale=en&theme=tokyonight" alt="gauravkumar065" /></p>
 
