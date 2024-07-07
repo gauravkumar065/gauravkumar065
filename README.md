@@ -57,8 +57,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 
-[![Gaurav's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=gauravkumar065&&theme=xcode)](https://github.com/gauravkumar065)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravkumar065&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gauravkumar065" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravkumar065&show_icons=true&locale=en&theme=tokyonight" alt="gauravkumar065" /></p>
