@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Web 3 technology**
 
-- 💬 Ask me about **Full stack , MEARN, latest BAAS**
+- 💬 Ask me about **Full stack , MEARN, latest SAAS**
 
 - 📫 How to reach me **gauravkmr065@gmail.com**
 
