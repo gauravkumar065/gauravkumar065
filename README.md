@@ -32,7 +32,7 @@ I'm a passionate Full Stack Developer specializing in SaaS solutions. With a com
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravkumar065&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravkumar37&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
