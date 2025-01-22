@@ -71,7 +71,7 @@ GitHub Stars
 
 </details>
 🤝 Collaboration
-<p align="center"> <a href="https://cal.com/gauravkumar"> <img src="https://img.shields.io/badge/Schedule_Meeting-000000?style=for-the-badge&logo=google-calendar&logoColor=white"/> </a> <a href="https://upwork.com/freelancers/~01abcdefghijk"> <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/> </a> </p>
+<p align="center"> <a href="https://cal.com/gauravkmr"> <img src="https://img.shields.io/badge/Schedule_Meeting-000000?style=for-the-badge&logo=google-calendar&logoColor=white"/> </a> <a href="https://upwork.com/freelancers/~01abcdefghijk"> <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/> </a> </p>
 📚 Latest Writings
 <!-- BLOG-POST-LIST:START -->
 SaaS Architecture Patterns
