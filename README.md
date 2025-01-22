@@ -22,16 +22,13 @@
 ## 📌 Featured Contents
 
 <div align="center">
-  <a href="https://github.com/gauravkumar37">
+  <a href="https://github.com/gauravkumar065">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gauravkumar37&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkumar37&layout=compact&theme=github_dark"/>
   </a>
 </div>
 
-<div align="center">
- 
-  <img src="https://github-profile-trophy.vercel.app/?username=gauravkumar065&theme=onedark&row=2&column=4" alt="GitHub Trophy"/>
-</div>
+
 
 ## 🚀 About Me
 
@@ -72,12 +69,12 @@ GitHub Stars
 </details>
 🤝 Collaboration
 <p align="center"> <a href="https://cal.com/gauravkmr"> <img src="https://img.shields.io/badge/Schedule_Meeting-000000?style=for-the-badge&logo=google-calendar&logoColor=white"/> </a> <a href="https://upwork.com/freelancers/~01abcdefghijk"> <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/> </a> </p>
+
 📚 Latest Writings
-<!-- BLOG-POST-LIST:START -->
+
 SaaS Architecture Patterns
 
 Web3 Auth Best Practices
 
 Node.js Performance Optimization
 
-<!-- BLOG-POST-LIST:END --><div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution snake"/> </div>
