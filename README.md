@@ -1,23 +1,48 @@
-<h1 align="center">Gaurav Kumar</h1>
-<h3 align="center">SaaS Developer | Full Stack Engineer</h3>
+<h1 align="center">👋 Hi, I'm Gaurav Kumar</h1>
+<h3 align="center">🚀 SaaS Developer | Full Stack Engineer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gaurav-k-5b3992155/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/gaurav-k-5b3992155/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/gauravkmr065" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://x.com/gauravkmr065">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://github.com/gauravkumar37">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:gauravkmr065@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-## About Me
 
-I'm a passionate Full Stack Developer specializing in SaaS solutions. With a commitment to continuous learning and innovation, I build new projects every week to stay at the forefront of technology.
 
-- 🔭 Currently working with TokenMetrics team
-- 🌱 Exploring Web 3 technologies
-- 💼 Open for collaboration on innovative SaaS projects
-- 📫 Reach me at: gauravkmr065@gmail.com
+
+## 📌 Featured Contents
+
+<div align="center">
+  <a href="https://github.com/gauravkumar37">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gauravkumar37&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkumar37&layout=compact&theme=github_dark"/>
+  </a>
+</div>
+
+<div align="center">
+ 
+  <img src="https://github-profile-trophy.vercel.app/?username=gauravkumar065&theme=onedark&row=2&column=4" alt="GitHub Trophy"/>
+</div>
+
+## 🚀 About Me
+
+**SaaS Development Expert | Web3 Explorer | Open Source Contributor**  
+*Building scalable solutions at [TokenMetrics](https://tokenmetrics.com/)*
+
++ 🔭 Architecting web3 analytics platforms @TokenMetrics
++ 🌱 Mastering Smart Contracts & Solidity development
++ 💡 2+ years experience in full-stack SaaS development
++ 🚀 Launched 12+ production-grade applications
++ 📫 How to reach me: gauravkmr065@gmail.com
 
 ## Tech Stack
 
@@ -32,13 +57,27 @@ I'm a passionate Full Stack Developer specializing in SaaS solutions. With a com
 ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 
+<details> <summary><b>🔐 Auth Microservice</b></summary>
+Scalable authentication service handling 10k+ RPM
+Tech: Node.js, JWT, Redis, AWS Cognito
+Features: OAuth2.0, Rate Limiting, RBAC
+Live Demo
 
-## GitHub Stats
+</details><details> <summary><b>📈 Blockchain Analytics</b></summary>
+Real-time crypto market analysis platform
+Tech: React, Ethers.js, The Graph Protocol
+Metrics: 1M+ monthly data points processed
+GitHub Stars
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravkumar37&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-</p>
+</details>
+🤝 Collaboration
+<p align="center"> <a href="https://cal.com/gauravkumar"> <img src="https://img.shields.io/badge/Schedule_Meeting-000000?style=for-the-badge&logo=google-calendar&logoColor=white"/> </a> <a href="https://upwork.com/freelancers/~01abcdefghijk"> <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/> </a> </p>
+📚 Latest Writings
+<!-- BLOG-POST-LIST:START -->
+SaaS Architecture Patterns
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravkumar065&theme=github-dark-blue" alt="GitHub Streak" />
-</p>
+Web3 Auth Best Practices
+
+Node.js Performance Optimization
+
+<!-- BLOG-POST-LIST:END --><div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution snake"/> </div>
