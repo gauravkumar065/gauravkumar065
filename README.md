@@ -5,10 +5,10 @@
   <a href="https://www.linkedin.com/in/gaurav-k-5b3992155/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/gauravkmr065">
+  <a href="https://x.com/gauravkumar065">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://github.com/gauravkmr065">
+  <a href="https://github.com/gauravkumar065">
     <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:gauravkmr065@gmail.com">
@@ -23,8 +23,8 @@
 
 <div align="center">
   <a href="https://github.com/gauravkumar065">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gauravkumar37&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkmr065&layout=compact&theme=github_dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gauravkumar065&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkumar065&layout=compact&theme=github_dark"/>
   </a>
 </div>
 
