@@ -24,7 +24,7 @@
 
 + 🔭 Architecting web3 analytics platforms @TokenMetrics
 + 🌱 Mastering Smart Contracts & Solidity development
-+ 💡 2+ years experience in full-stack SaaS development
++ 💡 3+ years experience in full-stack SaaS development
 + 🚀 Launched 12+ production-grade applications
 + 📫 How to reach me: gauravkmr065@gmail.com
 
