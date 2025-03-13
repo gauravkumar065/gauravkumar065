@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Gaurav Kumar</h1>
-<h3 align="center">🚀 SaaS Developer | Full Stack Engineer</h3>
+<h1 align="center">Hi, I'm Gaurav Kumar</h1>
+<h3 align="center">SaaS Developer & Full Stack Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurav-k-5b3992155/">
@@ -16,52 +16,49 @@
   </a>
 </p>
 
+---
 
-## 🚀 About Me
+### About Me
 
-**SaaS Development Expert | Web3 Explorer | Open Source Contributor**  
-*Building scalable solutions at [TokenMetrics](https://tokenmetrics.com/)*
+I’m a full stack developer with 2.5+ years of experience building scalable web applications using modern technologies like **TypeScript**, **React**, and **Node.js**. Currently, I’m helping build innovative SaaS and Web3 solutions at **Token Metrics**.
 
-+ 🔭 Architecting web3 analytics platforms @TokenMetrics
-+ 🌱 Mastering Smart Contracts & Solidity development
-+ 💡 3+ years experience in full-stack SaaS development
-+ 🚀 Launched 12+ production-grade applications
-+ 📫 How to reach me: gauravkmr065@gmail.com
+- **Expertise:** SaaS development, Web3 analytics, and microservices architecture.
+- **Focus:** Crafting robust authentication systems, payment gateways, and AI-powered applications.
+- **Passion:** Integrating emerging AI technologies to build user-centric products.
 
-## Tech Stack
+---
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+### Tech Stack
 
-<details> <summary><b>🔐 Auth Microservice</b></summary>
-Scalable authentication service handling 10k+ RPM
-Tech: Node.js, JWT, Redis, AWS Cognito
-Features: OAuth2.0, Rate Limiting, RBAC
-Live Demo
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws" />
+</p>
 
-</details><details> <summary><b>📈 Blockchain Analytics</b></summary>
-Real-time crypto market analysis platform
-Tech: React, Ethers.js, The Graph Protocol
-Metrics: 1M+ monthly data points processed
-GitHub Stars
+---
 
-</details>
-🤝 Collaboration
-<p align="center"> <a href="https://cal.com/gauravkmr"> <img src="https://img.shields.io/badge/Schedule_Meeting-000000?style=for-the-badge&logo=google-calendar&logoColor=white"/> </a> <a href="https://upwork.com/freelancers/~01abcdefghijk"> <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/> </a> </p>
+### Selected Projects
 
-📚 Latest Writings
+- **NextContent:** An AI-powered content creation platform built with Next.js, TypeScript, and modern AI services to streamline collaborative workflows.
+- **Unified Authentication Service:** An open-source TypeScript library that simplifies multi-provider authentication using secure JWT token rotation.
 
-SaaS Architecture Patterns
+---
 
-Web3 Auth Best Practices
+### Get In Touch
 
-Node.js Performance Optimization
-
+<p align="center">
+  <a href="https://cal.com/gauravkmr">
+    <img src="https://img.shields.io/badge/Schedule%20Meeting-000000?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule a Meeting"/>
+  </a>
+  <a href="https://upwork.com/freelancers/~01abcdefghijk">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire on Upwork"/>
+  </a>
+</p>
