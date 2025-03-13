@@ -17,19 +17,6 @@
 </p>
 
 
-
-
-## 📌 Featured Contents
-
-<div align="center">
-  <a href="https://github.com/gauravkumar065">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gauravkumar065&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkumar065&layout=compact&theme=github_dark"/>
-  </a>
-</div>
-
-
-
 ## 🚀 About Me
 
 **SaaS Development Expert | Web3 Explorer | Open Source Contributor**  
